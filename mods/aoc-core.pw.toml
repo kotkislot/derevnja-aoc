@@ -1,0 +1,18 @@
+filename = 'Aoc_Core_1.21_v2.jar'
+name = 'All of Create Core'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aoc_Core_1.21_v2.jar'
+
+[download]
+hash = 'e404c3d1e79fc135f86eba91182fe6bbb26cd4de'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8210441
+project-id = 1288893

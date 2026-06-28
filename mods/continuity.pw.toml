@@ -1,0 +1,18 @@
+filename = 'continuity-3.0.0+1.21.neoforge.jar'
+name = 'Continuity'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.0+1.21.neoforge'
+
+[download]
+hash = '0aecd2d043ac25299254623fafdd9129ab2ba9c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5981335
+project-id = 531351
