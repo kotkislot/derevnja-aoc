@@ -1,17 +1,11 @@
-filename = 'extra_create_recipes_1.21.1_v1.jar'
-name = 'Extra Create Recipe'
-side = 'server'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'extra_create_recipes_1.21.1_v1.jar'
+name = "Extra Create Recipe"
+filename = "extra_create_recipes_1.21.1_v1.jar"
+side = "server"
 
 [download]
-hash = '58552805ec6e6ab5ea1069fa7fba676d18006470'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "58552805ec6e6ab5ea1069fa7fba676d18006470"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 7370449

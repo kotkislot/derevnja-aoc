@@ -1,25 +1,12 @@
-filename = 'LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar'
-name = 'Leaves Be Gone'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] LeavesBeGone-v21.1.1'
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar"
+side = "both"
 
 [download]
-hash = '1d8eec39ed44414af14d14c0dfb5abd097e77491'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "1d8eec39ed44414af14d14c0dfb5abd097e77491"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 8036398
 project-id = 686435
-
-[[x-prismlauncher-dependencies]]
-addonId = '544048'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '495476'
-type = 'REQUIRED'

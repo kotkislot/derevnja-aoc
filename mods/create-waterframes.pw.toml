@@ -1,25 +1,12 @@
-filename = 'create_waterframes-1.0.jar'
-name = 'Create: WaterFrames'
-side = ''
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'create_waterframes-1.0.jar'
+name = "Create: WaterFrames"
+filename = "create_waterframes-1.0.jar"
+side = "both"
 
 [download]
-hash = 'a0bd864cc7ac956733cc27d1629997570f37552f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = "a0bd864cc7ac956733cc27d1629997570f37552f"
+hash-format = "sha1"
+mode = "metadata:curseforge"
 
 [update.curseforge]
 file-id = 7977303
 project-id = 1523577
-
-[[x-prismlauncher-dependencies]]
-addonId = '328085'
-type = 'REQUIRED'
-
-[[x-prismlauncher-dependencies]]
-addonId = '834607'
-type = 'REQUIRED'
